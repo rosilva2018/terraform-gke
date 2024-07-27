@@ -29,4 +29,4 @@ Abra um Pull Request.
 # Contato
 Para dúvidas ou sugestões, entre em contato:
 
-Nome do Desenvolvedor - https://www.linkedin.com/in/rog%C3%A9rio-carvalho-870436208/
+https://www.linkedin.com/in/rog%C3%A9rio-carvalho-870436208/
