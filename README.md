@@ -3,19 +3,20 @@
 Esse projeto entrega um cluster de kubernetes GKE, construido com Terraform, e uma aplicação simples com uma UI, para manipulação da API do Kubernetes.
 
 # Uso
-## App
+
+### App
 cd /app.
 node index.js
 
-## Infra
+### Infra
 terraform init
 terraform plan
 terraform apply
 
 # Dependências
-Node.js    - v18.9.0
-npm 8.19.1 - 8.19.1
-Terraform  - 1.5.7
+* Node.js    - v18.9.0
+* npm 8.19.1 - 8.19.1
+* Terraform  - 1.5.7
 
 # Contribuição
 Se você quiser contribuir com este projeto, siga as diretrizes abaixo:
