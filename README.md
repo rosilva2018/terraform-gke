@@ -1,6 +1,6 @@
 # IaC GKE
 
-Esse projeto entrega um cluster de kubernetes GKE, construido com Terraform, e uma aplicação simples com uma UI, para manipulação da API do Kubernetes.
+Este projeto entrega um cluster de Kubernetes GKE, construído com Terraform, e uma aplicação simples com uma interface de usuário (UI) para manipulação da API do Kubernetes.
 
 # Uso
 
