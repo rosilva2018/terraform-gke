@@ -21,11 +21,11 @@ terraform apply
 # Contribuição
 Se você quiser contribuir com este projeto, siga as diretrizes abaixo:
 
-Faça um fork do repositório.
-Crie uma branch para a sua feature (git checkout -b minha-feature).
-Commit suas alterações (git commit -m 'Adiciona uma nova feature').
-Faça o push para a branch (git push origin minha-feature).
-Abra um Pull Request.
+* Faça um fork do repositório.
+* Crie uma branch para a sua feature (git checkout -b minha-feature).
+* Commit suas alterações (git commit -m 'Adiciona uma nova feature').
+* Faça o push para a branch (git push origin minha-feature).
+* Abra um Pull Request.
 
 # Contato
 Para dúvidas ou sugestões, entre em contato:
